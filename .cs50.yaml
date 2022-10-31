@@ -1,0 +1,8 @@
+check50:
+  checks:
+    hello world: # define a check named hello world
+      # check code
+    foo: # define a check named foo
+      # check code
+    bar: # define a check named bar
+      # check code
